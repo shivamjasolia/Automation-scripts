@@ -1,4 +1,4 @@
-FROM python:3.7-alpine
+FROM python:3-alpine
 
 COPY amazon_price.py /app/
 COPY requirements.txt /tmp
