@@ -1,4 +1,6 @@
-FROM python:3.12.0a4-alpine
+
+FROM python:3.12.0a5-alpine
+
 
 COPY config.py /app/
 COPY favretweet.py /app/
