@@ -1,4 +1,4 @@
 pynput==1.7.1
 numpy==1.18.1
 PyAutoGUI==0.9.52
-opencv-python==4.4.0.44
+opencv-python==4.8.1.78.44
