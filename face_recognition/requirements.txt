@@ -2,3 +2,4 @@ face_recognition
 cv2
 numpy
 VideoCapture
+pillow>=10.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
