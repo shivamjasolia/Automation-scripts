@@ -3,6 +3,6 @@ opencv-python==4.0.1
 requests==2.24.0
 progressbar==2.5
 tensorflow==2.4.1
-Keras==2.6.0rc3
+Keras==2.13.1rc0
 cvlib==0.2.6
 urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
