@@ -2,3 +2,4 @@ selenium >= 3.141.0
 pynput >= 1.7.3
 notify-run >= 0.0.14
 pause >= 0.3
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
