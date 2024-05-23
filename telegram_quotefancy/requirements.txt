@@ -1,5 +1,5 @@
 # To work with Telegram API
-requests==2.26.0
+requests==2.32.0
 
 # To get random Quotefancy Quotes
 quotefancy==1.0
