@@ -3,3 +3,4 @@ beautifulsoup4==4.9.3
 Scrapy==2.5.0
 DateTime==4.3
 selenium==3.141.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
