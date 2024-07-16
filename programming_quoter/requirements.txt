@@ -1,3 +1,4 @@
 pywin32==228
 pypiwin32==223
 win10toast==0.9
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
