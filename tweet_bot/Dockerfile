@@ -1,5 +1,5 @@
 
-FROM python:3.12.0a5-alpine
+FROM python:3.14.0a3-alpine
 
 
 COPY config.py /app/
